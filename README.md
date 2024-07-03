@@ -1,4 +1,4 @@
-# ECommerce-Application
+# Ecommerce-Application
 
 # Project Overview:
 A full-featured eCommerce application built using the MERN (MongoDB, Express.js, React, Node.js) stack. The application includes functionalities for product management, user authentication, shopping cart, order processing, and payment integration.
